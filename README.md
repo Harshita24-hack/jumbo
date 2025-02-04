@@ -1,4 +1,4 @@
-# Jumbo
+# Jumbo Word Game
 
 Jumbo Word Unscramble Challenge
 
